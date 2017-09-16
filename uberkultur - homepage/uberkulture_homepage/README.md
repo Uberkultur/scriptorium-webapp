@@ -1,1 +1,1 @@
-homepage, using grayscale template I got from here: https://github.com/BlackrockDigital/startbootstrap-grayscale
+new homepage, goal being simple, and easy to add to when the time comes
