@@ -1,7 +1,9 @@
 angular.module('scriptoriumWebapp').controller('landingController', function (
 	$scope, $rootScope, $window){
 
-	$scope.text = "I am a description";
+	$scope.text = "loading...";
+
+	
 	console.log($scope.text);
 
 });
